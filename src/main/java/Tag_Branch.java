@@ -13,6 +13,7 @@ public class Tag_Branch {
                     System.out.print(" ");
             }
             System.out.println();
+            System.out.println("----------");
         }
     }
 }
