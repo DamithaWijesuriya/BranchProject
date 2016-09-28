@@ -14,7 +14,12 @@ public class Tag_Branch {
 
             }
             System.out.println();
+<<<<<<< HEAD
             System.out.println("After_Add_Tag_To_master");
+=======
+            System.out.println("----------");
+            System.out.println("After_tag");
+>>>>>>> NewTestBranch
         }
     }
 }
